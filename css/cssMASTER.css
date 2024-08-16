@@ -8,25 +8,29 @@
     opacity: 0.98;
 }
 
-.nav-link{
+.texto22{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
     color: #ffffff;
+    margin: 5px;
+}
+
+.nav-link{
     font-size: 18px;
 }
 
 .nav-link:hover {
-    color: #ffffff !important;
+
 }
 
 .nav-link:active {
-    color: #ffffff !important;
+
 }
 
 .nav-link:visited {
-    color: #ffffff !important;
 }
 
 .navbar-toggler{
-    color: #ffffff;
 }
 
 .container {
@@ -41,6 +45,15 @@ footer{
 
 .content {
     flex-grow: 1; 
+}
+
+.texto11{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 5px;
+    text-align: center;
 }
 
 .texto1{
@@ -280,6 +293,17 @@ a{
     text-align: center;
     align-content: center;
     
+}
+
+.cont2{
+    align-items: center;
+    background-image: linear-gradient(to right, #000000 , #4f4f4f);
+    text-align: center;
+}
+
+.cont3{
+    margin: 5px;
+    text-align: center;
 }
 
 .textoTsm{
